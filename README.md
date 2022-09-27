@@ -3,8 +3,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shikha-srivastava-7b5b401b9/)
 
 - 🔭 I am currently doing Bachelors in Computer Science and Engineering.
-- 🌱 I’m currently learning Python and AI.
-- 🤔 I’m looking for help with git.
+- 🌱 I’m currently learning AI and ML.
+- 🤔 I’m looking for help with Data Science.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: If you're still reading this, why not follow me? Let's Connect!
 
